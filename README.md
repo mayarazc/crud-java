@@ -1,11 +1,12 @@
-**Projeto CRUD em Java**
+# **Projeto CRUD em Java**
+
 Um simples projeto em Java puro que demonstra operações CRUD (Create, Read, Update, Delete) em uma lista de alunos.
 
-**Tecnologias**
+## **Tecnologias**
 - Linguagem: Java
 - IDE: IntelliJ
 
-**Funcionalidades**
+## **Funcionalidades**
 Este projeto oferece as seguintes funcionalidades:
 
 1. Adicionar Novo Aluno: Permite adicionar um novo aluno à lista.
